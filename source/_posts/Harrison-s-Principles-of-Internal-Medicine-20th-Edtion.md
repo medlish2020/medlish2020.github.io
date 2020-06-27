@@ -2,6 +2,7 @@
 title: Harrison's Principles of Internal Medicine 20th Edtion
 date: 2020-04-18 22:10:26
 tags: Internal Medicine
+img: https://cdn.jsdelivr.net/gh/medlish2020/hexo-img@master/20200418214334.png
 ---
 ![](https://cdn.jsdelivr.net/gh/medlish2020/hexo-img@master/20200418214334.png)
 > This is a book for all students of medicine no matter their level of experience.

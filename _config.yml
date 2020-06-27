@@ -126,7 +126,7 @@ theme: hexo-theme-matery
 deploy:
   type: 'git'
   repository: git@github.com:medlish2020/medlish2020.github.io
-  branch: blog  
+  branch: master  
 
 
 search:
